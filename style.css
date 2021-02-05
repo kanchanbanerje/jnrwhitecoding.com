@@ -598,7 +598,7 @@ header.header {
 .clint_box p{min-height: auto;}
 .testi_slider_box h2{text-align: center;}
 .footer{text-align: center;}
-.quick_links ul li:first-child{display: none;}
+.quick_links ul li:last-child{display: none;}
 .mean-container a.meanmenu-reveal{top:-53px;}
 .quick_links {
     right: 100px;
