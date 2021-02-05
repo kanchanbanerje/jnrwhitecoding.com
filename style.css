@@ -606,6 +606,7 @@ header.header {
 }
 .quick_links {
     right: 10px;}
+    .quick_links li.mb img{display:none;}
 }
 
 
